@@ -1,2 +1,4 @@
-_site
 .DS_Store
+
+/recipes.sublime-project
+/recipes.sublime-workspace

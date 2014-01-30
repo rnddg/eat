@@ -1,4 +1,5 @@
-name: Recipes
+name: recipes
 markdown: redcarpet
-pygments: true
+pygments: false
+exclude: [README.md, recipes.sublime-project, recipes.sublime-workspace]
 baseurl: /recipes
