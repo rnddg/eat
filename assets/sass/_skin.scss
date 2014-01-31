@@ -1,0 +1,46 @@
+// Research & Recipes - Main Skin
+// -------------------------------------
+// All 'Custom' styling for the site resides here.
+
+// Base Font Face
+
+body { font-family: $baseFontFace; }
+
+
+// Main Home Page Heading
+.main-page {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+// Home page category links
+.category-large {
+  // background: #efefef;
+  }
+
+  .category-large a {
+    width: 230px;
+    height: 230px;
+    position: relative;
+    display: block;
+    margin: 0 auto 1em auto;
+    border-radius: 50%;
+    overflow: hidden;
+    color: #fff;
+    }
+
+  .overlay-center {
+    position: absolute;
+    //display: none;
+    width: 100%;
+    text-align: center;
+    top: 35%;
+    font-size: 4em;
+    }
+
+  .img-circle { position: absolute; }
+
+    // Individual image adjustments
+    .classic-pizza { top: -26px; left: -50px; }
+    .turkey-breast { top: -55px; left: -107px; }
+    .real-iced-tea { top: -289px; left: -3px; }
