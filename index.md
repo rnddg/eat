@@ -3,4 +3,4 @@ layout: home
 title: Research & Recipes
 ---
 
-This project was started as a way to organize, add to, and use my growing recipe collection after seeing my dad struggle with his 20-year-old recipe binder.
+This project was started as a way to organize, add to, and access a growing recipe collection.
