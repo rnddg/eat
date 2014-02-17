@@ -20,8 +20,8 @@ body { font-family: $baseFontFace; }
   }
 
   .category-large a {
-    width: 230px;
-    height: 230px;
+    width: $baseFontSize * 14.375;  // 230px / 16px
+    height: $baseFontSize * 14.375; // 230px / 16px
     position: relative;
     display: block;
     margin: 0 auto 1em auto;
@@ -32,7 +32,6 @@ body { font-family: $baseFontFace; }
 
   .overlay-center {
     position: absolute;
-    //display: none;
     width: 100%;
     text-align: center;
     top: 35%;
@@ -42,8 +41,9 @@ body { font-family: $baseFontFace; }
   .img-circle { position: absolute; }
 
     // Individual image adjustments
+    .brownies { top: -19px; left: -180px; }
     .classic-pizza { top: -26px; left: -50px; }
+    .real-iced-tea { top: -289px; left:     -3px; }
     .turkey-breast { top: -55px; left: -107px; }
-    .real-iced-tea { top: -289px; left: -3px; }
 
 
