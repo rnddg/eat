@@ -10,3 +10,17 @@ We highly encourage you to submit a recipe! Please try to make sure you're inclu
 
 #### What the Heck is YAML Front Matter?
 
+Each recipe is stored in a [Markdown](https://help.github.com/articles/markdown-basics) file, free of HTML code or other clutter.
+
+At the very top of each recipe file, you'll see a block of code that looks like this, as in []:
+
+```
+---
+layout: recipe
+title: Teriyaki Sauce Two Ways
+original-url:
+---
+```
+
+
+
