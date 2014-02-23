@@ -58,86 +58,63 @@ body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2
 
 #page {
   font-size: 1em;
-  /* equivalent to 16px */
-  line-height: 1.25;
-  /* equivalent to 20px */ }
+  line-height: 1.25em; }
 
-@media (min-width: 43.75em) {
+@media (min-width: 35em) {
   #page {
     font-size: 1em;
-    /* equivalent to 16px */
-    line-height: 1.375;
-    /* equivalent to 22px */ } }
+    line-height: 1.375em; } }
 h1 {
   font-size: 2em;
-  /* 2x body copy size = 32px */
-  line-height: 1.25;
-  /* 45px / 36px */ }
+  line-height: 1.25em; }
 
-@media (min-width: 43.75em) {
+@media (min-width: 35em) {
   h1 {
     font-size: 2.5em;
-    /* 2.5x body copy size = 40px */
-    line-height: 1.125; } }
-@media (min-width: 56.25em) {
+    line-height: 1.125em; } }
+@media (min-width: 45em) {
   h1 {
     font-size: 3em;
-    /* 3x body copy size = 48px */
-    line-height: 1.05;
-    /* keep to a multiple of the 20px line height and something more appropriate for display headings */ } }
+    line-height: 1.05em; } }
 h2 {
   font-size: 1.625em;
-  /* 1.625x body copy size = 26px */
-  line-height: 1.15384615;
-  /* 30px / 26px */ }
+  line-height: 1.15385em; }
 
-@media (min-width: 43.75em) {
+@media (min-width: 35em) {
   h2 {
     font-size: 2em;
-    /* 2x body copy size = 32px */
-    line-height: 1.25; } }
-@media (min-width: 56.25em) {
+    line-height: 1.25em; } }
+@media (min-width: 45em) {
   h2 {
     font-size: 2.25em;
-    /* 2.25x body copy size = 36px */
-    line-height: 1.25; } }
+    line-height: 1.25em; } }
 h3 {
   font-size: 1.375em;
-  /* 1.375x body copy size = 22px */
-  line-height: 1.13636364;
-  /* 25px / 22px */ }
+  line-height: 1.13636em; }
 
-@media (min-width: 43.75em) {
+@media (min-width: 35em) {
   h3 {
     font-size: 1.5em;
-    /* 1.5x body copy size = 24px */
-    line-height: 1.25; } }
-@media (min-width: 56.25em) {
+    line-height: 1.25em; } }
+@media (min-width: 45em) {
   h3 {
     font-size: 1.75em;
-    /* 1.75x body copy size = 28px */
-    line-height: 1.25; } }
+    line-height: 1.25em; } }
 h4 {
   font-size: 1.125em;
-  /* 1.125x body copy size = 18px */
-  line-height: 1.11111111; }
+  line-height: 1.11111em; }
 
-@media (min-width: 43.75em) {
+@media (min-width: 35em) {
   h4 {
-    line-height: 1.22222222;
-    /* (22px / 18px */ } }
+    line-height: 1.22222em; } }
 blockquote {
   font-size: 1.25em;
-  /* 20px / 16px */
-  line-height: 1.25;
-  /* 25px / 20px */ }
+  line-height: 1.25em; }
 
-@media (min-width: 43.75em) {
+@media (min-width: 35em) {
   blockquote {
     font-size: 1.5em;
-    /* 24px / 16px = */
-    line-height: 1.45833333;
-    /* 35px / 24px */ } }
+    line-height: 1.45833em; } }
 body {
   height: 100%;
   padding-top: 4em; }
@@ -161,8 +138,8 @@ body {
   text-transform: uppercase; }
 
 .category-large a {
-  width: 230px;
-  height: 230px;
+  width: 14.375em;
+  height: 14.375em;
   position: relative;
   display: block;
   margin: 0 auto 1em auto;
@@ -180,14 +157,18 @@ body {
 .img-circle {
   position: absolute; }
 
+.brownies {
+  top: -19px;
+  left: -180px; }
+
 .classic-pizza {
   top: -26px;
   left: -50px; }
 
-.turkey-breast {
-  top: -55px;
-  left: -107px; }
-
 .real-iced-tea {
   top: -289px;
   left: -3px; }
+
+.turkey-breast {
+  top: -55px;
+  left: -107px; }
