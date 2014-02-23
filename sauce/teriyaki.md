@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Teriyaki Sauce Two Ways
+original-url:
 ---
 
 You can do this cheap, or you can do this messy. Here are two ways to go about a simple Teriyaki sauce. The first method is super-quick and made from readily available ingredients, while the second is a subtler, more refined sauce that is something you wouldn't be ashamed to serve your parents.
@@ -9,20 +10,20 @@ You can do this cheap, or you can do this messy. Here are two ways to go about a
 
 ### Ingredients
 
-+ 1/4 cup soy sauce
++ ¼ cup soy sauce
 + 1 cup water
-+ 1/2 teaspoon ground ginger
-+ 1/4 teaspoon garlic powder
++ ½ teaspoon ground ginger
++ ¼ teaspoon garlic powder
 + 5 tablespoons packed brown sugar
-+ 1 -2 tablespoon honey
++ 1 tablespoon honey
 + 2 tablespoons cornstarch
-+ 1/4 cup cold water
++ ¼ cup cold water
 
-Original: http://www.food.com/recipe/restaurant-teriyaki-sauce-133751?oc=linkback
+Original: [food.com](http://www.food.com/recipe/restaurant-teriyaki-sauce-133751?oc=linkback)
 
 #### Method
 
-1. Mix all but cornstarch and 1/4c water in a sauce pan and begin heating.
+1. Mix all but cornstarch and ¼c water in a sauce pan and begin heating.
 2. Mix cornstarch and cold water in a cup and dissolve. Add to sauce in pan.
 3. Heat until sauce thickens to desired thickness.
 4. Add water to thin if you over-thick it.
@@ -33,11 +34,11 @@ Original: http://www.food.com/recipe/restaurant-teriyaki-sauce-133751?oc=linkbac
 
 ### Ingredients
 
-+ 2/3 cup mirin (Japanese sweet rice wine)
++ ⅔ cup mirin (Japanese sweet rice wine)
 + 1 cup soy sauce
-+ 4 1/2 teaspoons rice vinegar
++ 4½ teaspoons rice vinegar
 + 1 teaspoon sesame oil
-+ 1/3 cup white sugar
++ ⅓ cup white sugar
 + 7 cloves garlic, minced
 + 1 tablespoon minced fresh ginger
 + 1 dash red pepper flakes
