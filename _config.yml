@@ -2,3 +2,4 @@ name: recipes
 markdown: redcarpet
 pygments: false
 exclude: [_offline, README.md, recipes.sublime-project, recipes.sublime-workspace]
+baseurl: /recipes
