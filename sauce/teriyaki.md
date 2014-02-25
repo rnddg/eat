@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Teriyaki Sauce Two Ways
-original-url:
+original_url:
 ---
 
 You can do this cheap, or you can do this messy. Here are two ways to go about a simple Teriyaki sauce. The first method is super-quick and made from readily available ingredients, while the second is a subtler, more refined sauce that is something you wouldn't be ashamed to serve your parents.
