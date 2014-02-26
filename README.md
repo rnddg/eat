@@ -42,11 +42,10 @@ Simply place an image with the *same filename* as the recipe you want it to asso
 
 Variable  | Description
 ------------- | :-------------
-`layout`  | set to `recipe`. this variable can be left alone and will be further documented.
+`layout`  | set to `recipe`. this variable can be left alone and will be further documented later on.
 `title`  | The title of the recipe. Get creative, but keep it short!
 `original_url`  | If you reproduced large parts of another work - please give credit where it's due with the link to where you found it!
-`image_author`  | add a short link to the photographer's website, eg. `http://yourwebsite.com/aboutyou`. If you don't have a website, add your twitter handle or other contact info.
-
+`image_author`  | Optional. Add a short link to the photographer's website, eg. `http://yourwebsite.com/aboutyou`. If you don't have a website, add your twitter handle or other contact info.
 
 [markdown]: http://guides.github.com/overviews/mastering-markdown/  "Github's 'Mastering Markdown' Page"
 [template recipe]: https://raw.github.com/ljvasey/recipes/gh-pages/sauce/teriyaki.md  "Template Recipe"
