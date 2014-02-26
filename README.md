@@ -41,7 +41,7 @@ Simply place an image with the *same filename* as the recipe you want it to asso
 ### Recipe-Related Variables
 
 First Header  | Second Header
-------------- | -------------
+------------- | :-------------
 `layout`  | set to `recipe`. this variable can be left alone and will be further documented later on.
 `title`  | The title of the recipe. Get creative, but keep it short!
 `original_url`  | If you reproduced large parts of another work - please give credit where it's due with the link to where you found it!
