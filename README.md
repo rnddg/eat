@@ -38,7 +38,7 @@ Please do not import images saved from somewhere on the internet. We only want i
 
 Simply place an image with the *same filename* as the recipe you want it to associate with in the [recipe images folder][], eg. `img/recipes/guacamole.jpg` for a recipe named `guacamole.md`. We encourage you to use the `image_author` variable to add an attribution so you get credit for that photo.
 
-##### Recipe-Related Variables
+### Recipe-Related Variables
 
 First Header  | Second Header
 ------------- | -------------
