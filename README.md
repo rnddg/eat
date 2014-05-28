@@ -4,9 +4,11 @@ This is a simple recipe collection of favorites that is meant to be easily acces
 
 Created for both practice and training with git/GitHub and a desire for a simpler way to file our recipes.
 
+**Currently a work in progress.**
+
 ## Hosted with GitHub Pages
 
-This repository is hosted using [GitHub Pages](http://pages.github.com/) and can be accessed from your browser at http://ljvasey.github.io/recipes
+This repository is hosted using [GitHub Pages](http://pages.github.com/) and can be accessed from your browser at http://rnddg.github.io/eat
 
 ### Submitting Recipes
 
@@ -14,7 +16,7 @@ We highly encourage you to submit a recipe! Please try to make sure you're inclu
 
 #### What the Heck is YAML Front Matter?
 
-Each recipe is stored in a [Markdown][] file, free of HTML code or other clutter.
+Each recipe is stored in a [Markdown](http://daringfireball.net/projects/markdown/) file, free of HTML code or other clutter.
 
 At the very top of each recipe file, you'll see a block of code that looks like this, as in the [template recipe][]:
 
